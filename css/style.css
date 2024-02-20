@@ -37,3 +37,29 @@ header {
 .Color-Yellow {
     background-color: yellow;
 }
+
+.table {
+    border-collapse: collapse;
+
+}
+
+thead{
+    background-color: rgb(76, 166, 250);
+    color: white;
+}
+
+.Blue-Background-Color {
+    background-color: rgb(102, 220, 224);
+}
+
+th {
+    width: 25%;
+}
+
+td {
+    width: 25%;
+}
+
+th.Large {
+ width: 50%;
+}
