@@ -19,13 +19,13 @@ header {
     color: rgb(0, 154, 243);
 }
 
-.Tim-Img1 {
+.Main-Tim-Img1 {
     width: 420px;
     font-size: 10px;
     margin-top: 20px;
 }
 
-.Tim-Img2 {
+.Main-Tim-Img2 {
     width: 360px;
     font-size: 10px;
 }
@@ -62,4 +62,27 @@ td {
 
 th.Large {
  width: 50%;
+}
+
+.Further-Text {
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+.Color-Grey {
+    color: gray;
+}
+
+.Footer-Img1 {
+    width: 200px;
+}
+
+.Footer-Img2 {
+    width: 200px;
+}
+
+.Text-Photo-Footer {
+    position: absolute;
+    color: white;
+    font-size: 20px;
 }
